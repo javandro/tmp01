@@ -1,0 +1,126 @@
+[
+    {
+        "accessories": [
+            {
+                "name": "accessories_1",
+                "image": "accessories/accessories_1.jpg"
+            },
+            {
+                "name": "accessories_2",
+                "image": "accessories/accessories_2.jpg"
+            },
+            {
+                "name": "accessories_3",
+                "image": "accessories/accessories_3.jpg"
+            },
+            {
+                "name": "accessories_4",
+                "image": "accessories/accessories_4.jpg"
+            },
+            {
+                "name": "accessories_5",
+                "image": "accessories/accessories_5.jpg"
+            },
+            {
+                "name": "accessories_6",
+                "image": "accessories/accessories_6.jpg"
+            },
+            {
+                "name": "accessories_7",
+                "image": "accessories/accessories_7.jpg"
+            },
+            {
+                "name": "accessories_8",
+                "image": "accessories/accessories_8.jpg"
+            },
+            {
+                "name": "accessories_9",
+                "image": "accessories/accessories_9.jpg"
+            },
+            {
+                "name": "accessories_10",
+                "image": "accessories/accessories_10.jpg"
+            },
+            {
+                "name": "accessories_11",
+                "image": "accessories/accessories_11.jpg"
+            },
+            {
+                "name": "accessories_12",
+                "image": "accessories/accessories_12.jpg"
+            },
+            {
+                "name": "accessories_13",
+                "image": "accessories/accessories_13.jpg"
+            },
+            {
+                "name": "accessories_14",
+                "image": "accessories/accessories_14.jpg"
+            },
+            {
+                "name": "accessories_15",
+                "image": "accessories/accessories_15.jpg"
+            },
+            {
+                "name": "accessories_16",
+                "image": "accessories/accessories_16.jpg"
+            },
+            {
+                "name": "accessories_17",
+                "image": "accessories/accessories_17.jpg"
+            },
+            {
+                "name": "accessories_19",
+                "image": "accessories/accessories_19.jpg"
+            },
+            {
+                "name": "accessories_20",
+                "image": "accessories/accessories_20.jpg"
+            }
+        ]
+    },
+    {
+        "outfit": [
+            {
+                "name": "outfit_1",
+                "image": "outfit/outfit_1.jpg"
+            },
+            {
+                "name": "outfit_2",
+                "image": "outfit/outfit_2.jpg"
+            },
+            {
+                "name": "outfit_3",
+                "image": "outfit/outfit_3.jpg"
+            },
+            {
+                "name": "outfit_4",
+                "image": "outfit/outfit_4.jpg"
+            },
+            {
+                "name": "outfit_5",
+                "image": "outfit/outfit_5.jpg"
+            }
+        ]
+    },
+    {
+        "scene": [
+            {
+                "name": "scene_1",
+                "image": "scene/scene_1.JPG"
+            },
+            {
+                "name": "scene_2",
+                "image": "scene/scene_2.jpg"
+            },
+            {
+                "name": "scene_3",
+                "image": "scene/scene_3.jpg"
+            },
+            {
+                "name": "scene_4",
+                "image": "scene/scene_4.png"
+            }
+        ]
+    }
+]
